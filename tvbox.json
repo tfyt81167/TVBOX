@@ -7,7 +7,7 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1，
     },
     {
       "key": "rycj",
@@ -16,7 +16,7 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1，
     },
     {
       "key": "bfzy",
@@ -25,7 +25,7 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1，
     },
     {
       "key": "ty",
@@ -34,7 +34,7 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1，
     },
     {
       "key": "xmm",
