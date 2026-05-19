@@ -395,6 +395,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "jkun",
+      "name": "鸡坤资源",
+      "type": 1,
+      "api": " https://jkunzyapi.com/api.php/provide/vo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
