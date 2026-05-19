@@ -190,7 +190,7 @@
       "filterable": 1
     },
     {
-      "key": "sewo",
+      "key": "sewozy",
       "name": "色窝资源",
       "type": 1,
       "api": " https://sewozyapi.com/api.php/provide/vod",
@@ -397,10 +397,10 @@
       "filterable": 0
     },
     {
-      "key": "jkun",
-      "name": "鸡坤资源",
+      "key": ".heiliao",
+      "name": "黑料资源网 ",
       "type": 1,
-      "api": " https://jkunzyapi.com/api.php/provide/vo",
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
