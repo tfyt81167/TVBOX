@@ -295,7 +295,7 @@
       "api": " https://cj.apiabzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "99",
@@ -304,7 +304,7 @@
       "api": "http://99zy.pw/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "xiuse",
@@ -313,7 +313,7 @@
       "api": " https://api.xiuseapi.com/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "putao",
@@ -322,7 +322,7 @@
       "api": "https://caiji.putaozy.net/inc/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "ttzy",
@@ -331,7 +331,7 @@
       "api": "https://apittzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "seya",
@@ -340,7 +340,7 @@
       "api": "https://api.seyavod.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "yutu",
@@ -349,7 +349,7 @@
       "api": "https://yutuzy3.com/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "lsb",
@@ -358,7 +358,7 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "xs",
@@ -367,7 +367,7 @@
       "api": "https://xxhd.online//api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "tm",
@@ -376,7 +376,7 @@
       "api": " https://tmav.art/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "ql",
@@ -385,16 +385,16 @@
       "api": "https://qlzy.tv/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "sexnguo",
       "name": "色南国资源",
-      "type": 0,
+      "type": 1,
       "api": " https://api.sexnguon.com/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": ".heiliao",
@@ -403,7 +403,7 @@
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "Naixxz",
@@ -412,7 +412,7 @@
       "api": "https://Naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "rycj",
@@ -421,7 +421,7 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }
   ],
   "lives": [
