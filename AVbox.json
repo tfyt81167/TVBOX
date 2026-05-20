@@ -424,10 +424,10 @@
       "filterable": 1
     },
     {
-      "key": "AV",
-      "name": "avjb",
+      "key": "cab",
+      "name": "cab",
       "type": 1,
-      "api": "https://avjb.com/",
+      "api": "https://cableav.video/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
