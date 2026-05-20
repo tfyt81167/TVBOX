@@ -272,7 +272,7 @@
     },
     {
       "key": "91md",
-      "name": "丝袜 91麻豆",
+      "name": " 91麻豆",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod",
       "searchable": 1,
@@ -424,10 +424,10 @@
       "filterable": 1
     },
     {
-      "key": "viet69",
-      "name": "viet69",
+      "key": "hse",
+      "name": "好色",
       "type": 1,
-      "api": "https://viet69.be/",
+      "api": "https://hsex.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
