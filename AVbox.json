@@ -424,10 +424,10 @@
       "filterable": 1
     },
     {
-      "key": "MissAV",
-      "name": "MissAV",
+      "key": "AV",
+      "name": "avjb",
       "type": 1,
-      "api": "csp_Miss",
+      "api": "https://avjb.com/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
