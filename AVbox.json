@@ -424,10 +424,10 @@
       "filterable": 1
     },
     {
-      "key": "hse",
-      "name": "好色",
+      "key": "MissAV",
+      "name": "MissAV",
       "type": 1,
-      "api": "https://hsex.tv/api.php/provide/vod/",
+      "api": "csp_Miss",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
