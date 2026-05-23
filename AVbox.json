@@ -424,10 +424,10 @@
       "filterable": 1
     },
     {
-      "key": "*抖阴视频",
-      "name": "*抖阴视频",
+      "key": "滴滴",
+      "name": "滴滴采集"
       "type": 1,
-      "api": "https://www.888dav.com/api.php/provide/vod",
+      "api": "https://api.ddapi.cc/api.php/provide/vod/
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
