@@ -29,7 +29,7 @@
     {
       "key": "CK",
       "name": "CK资源",
-      "type": 0,
+      "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
