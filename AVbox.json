@@ -427,7 +427,7 @@
       "key": "滴滴",
       "name": "滴滴采集"
       "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
