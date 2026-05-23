@@ -13,16 +13,16 @@
       "key": "美少女",
       "name": "美少女资源站",
       "type": 1,
-      "api": "https://www.msnii.com/api/xml.php ",
+      "api": "https://www.msnii.com/api/json.php ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "色播",
-      "name": "色播",
+      "key": "yinshiu",
+      "name": "淫水机资源站",
       "type": 1,
-     "api": "https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js"
+      "api": "https://www.xrbsp.com/api/json.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -190,7 +190,7 @@
       "filterable": 1
     },
     {
-      "key": "sewozy",
+      "key": "sewo",
       "name": "色窝资源",
       "type": 1,
       "api": " https://sewozyapi.com/api.php/provide/vod",
@@ -272,7 +272,7 @@
     },
     {
       "key": "91md",
-      "name": " 91麻豆",
+      "name": "丝袜 91麻豆",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod",
       "searchable": 1,
@@ -331,16 +331,16 @@
       "api": "https://apittzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "seya",
       "name": "色鸭资源",
-      "type": 1,
+      "type": 0,
       "api": "https://api.seyavod.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "yutu",
@@ -349,7 +349,7 @@
       "api": "https://yutuzy3.com/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "lsb",
@@ -358,7 +358,7 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "xs",
@@ -367,7 +367,7 @@
       "api": "https://xxhd.online//api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "tm",
@@ -376,7 +376,7 @@
       "api": " https://tmav.art/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "ql",
@@ -385,45 +385,26 @@
       "api": "https://qlzy.tv/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "sexnguo",
       "name": "色南国资源",
-      "type": 1,
+      "type": 0,
       "api": " https://api.sexnguon.com/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
-      "key": ".heiliao",
-      "name": "黑料资源网 ",
+      "key": "jkun",
+      "name": "鸡坤资源",
       "type": 1,
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "api": " https://jkunzyapi.com/api.php/provide/vo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Naixxz",
-      "name": "奶香香资源站[需要代理]",
-      "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "rycj",
-      "name": "如意资源网",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
+      "filterable": 0
+    }
   ],
   "lives": [
     {
