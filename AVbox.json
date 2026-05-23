@@ -423,15 +423,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "滴滴",
-			"name": "滴滴采集",
-			"type": 1,
-			"api": "https://api.ddapi.cc/api.php/provide/vod/",
-			"quickSearch": 1,
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "proxy"
+    
     }
   ],
   "lives": [
