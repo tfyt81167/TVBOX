@@ -139,6 +139,7 @@
       "name": "大地采集",
       "type": 1,
       "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "\"https://play.dadiapi.com/watch?url",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -174,7 +175,7 @@
       "key": "乐播",
       "name": "乐播采集",
       "type": 1,
-      "api": "\"https://lbapi9.com/api.php/provide/vod",
+      "api": "https://lbapi9.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
