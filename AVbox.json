@@ -22,7 +22,7 @@
       "key": "色播",
       "name": "色播",
       "type": 1,
-      "api": "https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js",
+     "api": "https://raw.githubusercontent.com/fish2018/lib/main/js/dr_py/js/sebo.js"
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
