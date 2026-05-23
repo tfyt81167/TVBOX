@@ -102,7 +102,7 @@
       "key": "AIvin",
       "name": "AIvin",
       "type": 1,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "api": "\"http://lbapiby.com/api.php/provide/vod/at/xm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
