@@ -361,10 +361,10 @@
       "filterable": 0
     },
     {
-      "key": "xs",
-      "name": "涩 高清 ",
+      "key": "xiaji",
+      "name": "小鸡资源 ",
       "type": 1,
-      "api": "https://xxhd.online//api.php/provide/vod ",
+      "api": "https://api.xiaojizy.live/provide/vod/ ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
