@@ -226,55 +226,10 @@
       "filterable": 1
     },
     {
-      "key": "成人18+",
-      "name": "成人18+",
-      "type": 0,
-      "api": " http://91md.me/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "ue",
-      "name": "优异资源",
-      "type": 1,
-      "api": " https://a.uezy.pw/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "橘猫",
-      "name": "橘猫资源",
-      "type": 1,
-      "api": "https://to.to-long.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "xingba",
-      "name": "杏吧资源",
-      "type": 1,
-      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "xxibao",
       "name": "X细胞资源",
       "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "souav",
-      "name": "souav资源",
-      "type": 1,
-      "api": " https://api.souavzy.vip/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -287,6 +242,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "xiaoji",
+      "name": "小鸡资源",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
