@@ -102,7 +102,7 @@
       "key": "AIvin",
       "name": "AIvin",
       "type": 1,
-      "api": "\"http://lbapiby.com/api.php/provide/vod/at/xm",
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -138,7 +138,7 @@
       "key": "大地",
       "name": "大地采集",
       "type": 1,
-      "api": "https://dadiapi.com/apple_m3u8.php",
+      "api": "https://dadiapi.com/api.php",
       "playUrl": "\"https://play.dadiapi.com/watch?url",
       "searchable": 1,
       "quickSearch": 1,
@@ -194,6 +194,96 @@
       "name": "玉兔采集",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "vnz",
+      "name": "越南资源",
+      "type": 1,
+      "api": "https://vnzyz.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "湿乐园",
+      "name": "湿乐园",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AIvin",
+      "name": "AIvin",
+      "type": 1,
+      "api": " http://lbapiby.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "成人18+",
+      "name": "成人18+",
+      "type": 0,
+      "api": " http://91md.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ue",
+      "name": "优异资源",
+      "type": 1,
+      "api": " https://a.uezy.pw/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "橘猫",
+      "name": "橘猫资源",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xingba",
+      "name": "杏吧资源",
+      "type": 1,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xxibao",
+      "name": "X细胞资源",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "souav",
+      "name": "souav资源",
+      "type": 1,
+      "api": " https://api.souavzy.vip/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "bh",
+      "name": "百花资源",
+      "type": 1,
+      "api": "https://bhziyuan.com/api.php/provide/vod/at/xm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
