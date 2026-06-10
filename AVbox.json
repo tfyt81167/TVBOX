@@ -4,7 +4,7 @@
       "key": "shayu",
       "name": "鲨鱼资源",
       "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+      "api": "https://shayuapi.com/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
