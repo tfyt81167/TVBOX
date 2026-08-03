@@ -286,10 +286,10 @@
       "ext": ""
     },
     {
-      "name": "优优资源",
-      "key": "yytv",
+      "name": "91资源",
+      "key": "y91",
       "type": 1,
-      "api": "https://yytv1.cc/api.php/provide/vod/?ac=list",
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
