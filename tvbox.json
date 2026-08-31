@@ -10,6 +10,13 @@
       "filterable": 1
     },
     {
+   "key": "py_huangguo",
+   "name": "黄果短剧[py]",
+   "type": 3,
+   "api": "./js/ss/huangguo.py",
+   "ext": ""
+  },
+    {
       "key": "rycj",
       "name": "如意资源",
       "type": 1,
