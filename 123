@@ -1,0 +1,45 @@
+{
+  "spider": "https://example.com/spider.jar",
+  "logo": "https://example.com/logo.png",
+  "wallpaper": "https://example.com/wallpaper.jpg",
+  "sites": [
+    {
+      "name": "黄果短剧",
+      "key": "huanguo",
+      "type": 3,
+      "api": "csp_huangguo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": "raw.githubusercontent.com/Yswag/xptv-ext..."
+    }
+  ],
+  "lives": {
+    "undefined": [
+      {
+        "name": "live",
+        "url": "http://xhztv.top/xhz/live.txt",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      }
+    ]
+  },
+  "parses": [
+    {
+      "name": "示例解析",
+      "type": 0,
+      "url": "https://xxx.xxx?jx=",
+      "headers": {}
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv"
+  ]
+}
