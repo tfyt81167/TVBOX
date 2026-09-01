@@ -1,0 +1,57 @@
+{
+  "spider": "https://example.com/spider.jar",
+  "logo": "https://example.com/logo.png",
+  "wallpaper": "https://example.com/wallpaper.jpg",
+  "sites": [
+    {
+      "key": "one",
+      "name": "One",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": ""
+    }
+  ],
+  "lives": {
+    "undefined": [
+      {
+        "name": "live",
+        "url": "http://xhztv.top/xhz/live.txt",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      },
+      {
+        "name": "香港频道",
+        "url": "https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u",
+        "logo": "",
+        "epg": ""
+      },
+      {
+        "name": "台湾频道",
+        "url": "https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u",
+        "logo": "",
+        "epg": ""
+      }
+    ]
+  },
+  "parses": [
+    {
+      "name": "示例解析",
+      "type": 0,
+      "url": "https://xxx.xxx?jx=",
+      "headers": {}
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "台湾频道"
+  ]
+}
