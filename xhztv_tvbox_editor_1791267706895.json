@@ -6,7 +6,7 @@
     {
       "name": "精品98",
       "key": "jp98",
-      "type": 3,
+      "type": 1,
       "api": "https://jp98.vip/api.php/provide/vod/?ac=detail",
       "searchable": 1,
       "quickSearch": 1,
@@ -18,7 +18,7 @@
     {
       "name": "番号资源",
       "key": "FHCJ",
-      "type": 3,
+      "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
@@ -30,7 +30,7 @@
     {
       "name": "老色逼资源",
       "key": "LSB",
-      "type": 3,
+      "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -42,7 +42,7 @@
     {
       "name": "玉兔资源",
       "key": "YTZY",
-      "type": 3,
+      "type": 1,
       "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -54,7 +54,7 @@
     {
       "name": "乐播资源",
       "key": "LBZY",
-      "type": 3,
+      "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
@@ -66,7 +66,7 @@
     {
       "name": "色猫资源",
       "key": "SAV",
-      "type": 3,
+      "type": 1,
       "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -78,7 +78,7 @@
     {
       "name": "辣椒资源",
       "key": "LJAY",
-      "type": 3,
+      "type": 1,
       "api": "https://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
@@ -90,7 +90,7 @@
     {
       "name": "鲨鱼资源网",
       "key": "SHYUZY",
-      "type": 3,
+      "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
@@ -102,7 +102,7 @@
     {
       "name": "精品x资源",
       "key": "JPX",
-      "type": 3,
+      "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -114,7 +114,7 @@
     {
       "name": "嘿嘿资源",
       "key": "HHZY",
-      "type": 3,
+      "type": 1,
       "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
