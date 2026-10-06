@@ -1,0 +1,153 @@
+{
+  "spider": "",
+  "logo": "https://example.com/logo.png",
+  "wallpaper": "https://example.com/wallpaper.jpg",
+  "sites": [
+    {
+      "name": "精品98",
+      "key": "jp98",
+      "type": 3,
+      "api": "https://jp98.vip/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "番号资源",
+      "key": "FHCJ",
+      "type": 3,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "老色逼资源",
+      "key": "LSB",
+      "type": 3,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "玉兔资源",
+      "key": "YTZY",
+      "type": 3,
+      "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "乐播资源",
+      "key": "LBZY",
+      "type": 3,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "色猫资源",
+      "key": "SAV",
+      "type": 3,
+      "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "辣椒资源",
+      "key": "LJAY",
+      "type": 3,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "鲨鱼资源网",
+      "key": "SHYUZY",
+      "type": 3,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "精品x资源",
+      "key": "JPX",
+      "type": 3,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "嘿嘿资源",
+      "key": "HHZY",
+      "type": 3,
+      "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    }
+  ],
+  "lives": {
+    "undefined": [
+      {
+        "name": "live",
+        "url": "http://xhztv.top/xhz/live.txt",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      }
+    ]
+  },
+  "parses": [
+    {
+      "name": "示例解析",
+      "type": 0,
+      "url": "https://xxx.xxx?jx=",
+      "headers": {}
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv"
+  ]
+}
