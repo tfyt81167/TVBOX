@@ -1,9 +1,21 @@
 {
-  "spider": "https://example.com/spider.jar",
+  "spider": "",
   "logo": "https://example.com/logo.png",
   "wallpaper": "https://example.com/wallpaper.jpg",
   "sites": [
-     {
+    {
+      "name": "精品98",
+      "key": "jp98",
+      "type": 3,
+      "api": "https://jp98.vip/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
       "name": "番号资源",
       "key": "FHCJ",
       "type": 3,
@@ -100,67 +112,28 @@
       "ext": ""
     },
     {
-      "name": "火速资源",
-      "key": "HUOSU",
-      "type": 1,
-      "api": "https://api.huosuapi.cc/api.php/provide/vod/?ac=list",
+      "name": "嘿嘿资源",
+      "key": "HHZY",
+      "type": 3,
+      "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "extType": "json",
-      "ext": ""
-    },
-    {
-      "name": "黄色仓库",
-      "key": "hsck",
-      "type": 1,
-      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "extType": "json",
-      "ext": ""
-    },
-    {
-      "name": "黑料资源",
-      "key": "heiliaozy",
-      "type": 1,
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "extType": "json",
-      "ext": ""
-    },
-    {
-      "name": "小鸡资源",
-      "key": "xjzy",
-      "type": 1,
-      "api": "https://api.xjzyapi.com/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "extType": "json",
-      "ext": ""
-    },
-    {
-      "name": "大地资源",
-      "key": "dadi",
-      "type": 1,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "extType": "text",
       "ext": ""
     }
   ],
-  "lives": {},
+  "lives": {
+    "undefined": [
+      {
+        "name": "live",
+        "url": "http://xhztv.top/xhz/live.txt",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      }
+    ]
+  },
   "parses": [
     {
       "name": "示例解析",
