@@ -196,10 +196,10 @@
       "ext": ""
     },
     {
-      "name": "dd资源",
-      "key": "dd",
+      "name": "母鸡资源",
+      "key": "MJ",
       "type": 3,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://mujiziyuan00.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -208,10 +208,10 @@
       "ext": ""
     },
     {
-      "name": "色猫资源",
-      "key": "SAV",
+      "name": "森林资源",
+      "key": "SL",
       "type": 3,
-      "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
