@@ -1,0 +1,240 @@
+{
+  "spider": "https://example.com/spider.jar",
+  "logo": "https://example.com/logo.png",
+  "wallpaper": "https://example.com/wallpaper.jpg",
+  "sites": [
+    {
+      "name": "火速资源",
+      "key": "HUOSU",
+      "type": 1,
+      "api": "https://api.huosuapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "黄色仓库",
+      "key": "hsck",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "黑料资源",
+      "key": "heiliaozy",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "小鸡资源",
+      "key": "xjzy",
+      "type": 1,
+      "api": "https://api.xjzyapi.com/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "大地资源",
+      "key": "dadi",
+      "type": 1,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "嘿嘿资源",
+      "key": "hei",
+      "type": 1,
+      "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "免费资源站",
+      "key": "yuanlib",
+      "type": 1,
+      "api": "https://yuanlib.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "极品资源",
+      "key": "jipin",
+      "type": 1,
+      "api": "https://jipinvip1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "杏吧资源",
+      "key": "xingba",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "奶香香资源",
+      "key": "naixx",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "桃花资源",
+      "key": "taohua",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "大奶子资源",
+      "key": "danaizi",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "搜av资源",
+      "key": "souav",
+      "type": 1,
+      "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "辣椒资源",
+      "key": "lajiao",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "鲨鱼资源网",
+      "key": "shayu",
+      "type": 3,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "精品资源",
+      "key": "jingpinx",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "dd资源",
+      "key": "dd",
+      "type": 3,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    },
+    {
+      "name": "色猫资源",
+      "key": "SAV",
+      "type": 3,
+      "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "json",
+      "ext": ""
+    }
+  ],
+  "lives": {},
+  "parses": [
+    {
+      "name": "示例解析",
+      "type": 0,
+      "url": "https://xxx.xxx?jx=",
+      "headers": {}
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv"
+  ]
+}
