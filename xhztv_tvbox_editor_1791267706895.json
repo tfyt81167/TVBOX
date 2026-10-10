@@ -7,7 +7,7 @@
       "name": "精品98",
       "key": "jp98",
       "type": 1,
-      "api": "https://jp98.vip/api.php/provide/vod/?ac=detail",
+      "api": "https://jp98.vip/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
