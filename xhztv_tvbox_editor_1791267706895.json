@@ -183,16 +183,8 @@
       "extType": "text",
       "ext": ""
     }
-  "lives": {
-    "undefined": [
-      {
-        "name": "live",
-        "url": "http://xhztv.top/xhz/live.txt",
-        "logo": "https://epg.112114.xyz/logo/{name}.png",
-        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
-      }
-    ]
-  },
+  ],
+  "lives": {},
   "parses": [
     {
       "name": "示例解析",
@@ -209,3 +201,4 @@
     "qiyi",
     "letv"
   ]
+}
